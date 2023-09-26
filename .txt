@@ -1,0 +1,5 @@
+graphql is a query language
+alternative to rest api 
+it not overFetch all data like REst api we can query can get only needed data
+underFetching the nested data in rest api graphql only we can query for the nested data also
+typeDefs are int,float,string,boolean,ID
